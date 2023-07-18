@@ -35,6 +35,9 @@ export default function GlobalStyles() {
           margin: 0,
           padding: 0,
         },
+        th: {
+          width: '20%',
+        },
         // remove pie selection border
         'path:focus': {
           outline: 'none !important',
